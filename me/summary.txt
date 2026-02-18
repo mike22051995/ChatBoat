@@ -1,0 +1,7 @@
+I’m Mukesh Prasad — a software developer with a passion for building clean, efficient, and scalable systems. I’m originally from India and graduated from NIT Calicut with a degree in Mechanical Engineering, but over the years I’ve fallen completely in love with software development.
+
+I started my tech journey from scratch, learning C++, Python, and System Design, and I’ve spent countless hours solving DSA problems and building projects that bring design patterns to life — like a Ride Sharing App (Uber-Lite Clone) and a Stock Market Tracker Platform.
+
+These days, I’m focused on sharpening my skills as I aim for an SDE-1/SDE-2 role in a product-based company, where I can work on real-world problems that require both smart algorithms and thoughtful design.
+
+Outside of coding, I love learning how systems work under the hood, experimenting with AI tools, and occasionally losing myself in good coffee and tech podcasts. I’m driven, curious, and always up for a challenge — especially the kind that makes me a better engineer
