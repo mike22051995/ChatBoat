@@ -1,7 +1,33 @@
-I’m Mukesh Prasad — a software developer with a passion for building clean, efficient, and scalable systems. I’m originally from India and graduated from NIT Calicut with a degree in Mechanical Engineering, but over the years I’ve fallen completely in love with software development.
+I'm Mukesh Prasad — a Backend Engineer based in Bangalore, India, with strong foundations in Python, C++, Data Structures & Algorithms, and System Design.
 
-I started my tech journey from scratch, learning C++, Python, and System Design, and I’ve spent countless hours solving DSA problems and building projects that bring design patterns to life — like a Ride Sharing App (Uber-Lite Clone) and a Stock Market Tracker Platform.
+I graduated from the National Institute of Technology (NIT), Calicut with a B.Tech in Mechanical Engineering (CGPA: 7.92) in 2018. While my degree was in Mechanical Engineering, I discovered my passion for software and made a complete transition into tech — teaching myself Python, C++, DSA, and system design from the ground up.
 
-These days, I’m focused on sharpening my skills as I aim for an SDE-1/SDE-2 role in a product-based company, where I can work on real-world problems that require both smart algorithms and thoughtful design.
+From April 2018 to August 2020, I worked as a Design Engineer at Kia Motors (Kia Worldwide) in Chennai, contributing to the design, simulation, and validation of suspension systems for the Kia Seltos and Kia Sonet — both became top-selling compact SUVs in India with over 500K combined annual units.
 
-Outside of coding, I love learning how systems work under the hood, experimenting with AI tools, and occasionally losing myself in good coffee and tech podcasts. I’m driven, curious, and always up for a challenge — especially the kind that makes me a better engineer
+From October 2020 to July 2025, I worked at Aakash Educational Services Limited (AESL) in Bangalore as a Software Engineer (Backend) and Senior Educator simultaneously. On the engineering side, I built internal Python automation tools that eliminated manual reporting workflows used by 10+ faculty members, developed data pipelines integrating academic performance data with PostgreSQL (reducing report generation time by ~70%), and built an automated email notification system using Python (SMTP) that dispatched performance alerts and exam schedules to 1,000+ students per batch. On the education side, I mentored 6,000+ students (1,000+ annually) in analytical problem-solving and structured reasoning.
+
+My technical skills include:
+- Programming Languages: Python, C++, SQL
+- Agentic AI / LLM Systems: CrewAI, AutoGen, OpenAI API (function/tool calling), multi-agent orchestration, agent verification/reflection pipelines
+- Backend: FastAPI, REST APIs, Multithreading, Async Programming, Pydantic, SQLAlchemy, APScheduler
+- Databases: PostgreSQL, Redis (caching, pub/sub, distributed locking, atomic ops)
+- Core CS: Data Structures & Algorithms, OOP, Concurrency, Operating Systems, Low-Level Design, System Design
+- Tools & DevOps: Docker, RabbitMQ, Kafka, Git, GitHub, Linux, SMTP, HTTP Clients
+- Testing: Unit Testing, API Testing (Postman), Exception Handling, Logging
+
+My key projects include:
+1. Weather Alert & Forecast Service — Production-grade weather monitoring backend using FastAPI, PostgreSQL, Redis, RabbitMQ, Kafka, Docker, and APScheduler. Redis cache-first architecture reduced external API calls by ~80%, dropping response latency from ~400ms to under 50ms. Implemented configurable alert rules with automated SMTP email notifications.
+
+2. Hotel Booking System with Concurrency Control (C++ + Redis) — Concurrent reservation system handling simultaneous bookings without double-booking using Redis distributed locking. Implemented booking lifecycle state machine (PENDING → CONFIRMED → CANCELLED).
+
+3. Distributed Rate Limiter (C++ + Redis) — Token Bucket-based rate limiter for distributed API throttling, handling burst traffic and per-client rate limits using Redis atomic operations.
+
+4. Thread-Safe LRU Cache (C++) — O(1) get/put LRU Cache using hashmap + doubly linked list with mutex-based concurrency handling.
+
+5. LLD Systems — Ride Sharing, ATM System, Social Media Platform, Food Delivery, Online Shopping, Library Management, Elevator System, Vending Machine, Snake & Ladder — all built in C++ using OOP and Design Patterns (Singleton, State, Strategy, Observer, Factory).
+
+I have solved 300+ problems on LeetCode across Easy/Medium/Hard with consistent focus on graphs, DP, trees, and sliding window patterns.
+
+I'm currently targeting Backend / SDE roles in Bangalore at 20+ LPA. I'm available for freelance work and open to discussing opportunities. The best way to reach me is via email at mukeshprasadnitc929@gmail.com or on LinkedIn at linkedin.com/in/mukeshprasadnitc.
+
+I'm driven, curious, and always up for a challenge — especially the kind that makes me a better engineer. I love diving deep into how distributed systems work, and I enjoy the intersection of clean code and real-world performance constraints.
